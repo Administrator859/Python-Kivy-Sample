@@ -1,0 +1,12 @@
+***YOU NEED TO INSTALL THIS IN YOUR COMMAND PROMPT***
+kivy==1.11.1
+
+***YOU NEED THIS***
+
+– main.py (Run this script)
+
+– database.py
+
+– my.kv
+
+– users.txt
